@@ -1,0 +1,13 @@
+.bgcolor{
+    background-color: red;
+}
+#color-red{
+    color: white;
+    text-align: center;
+}
+#color-black{
+    background-color: black;
+}
+body{
+    background-color: lightgrey;
+}
